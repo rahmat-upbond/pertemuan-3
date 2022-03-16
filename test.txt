@@ -1,1 +1,4 @@
-Contoh file - Ini Judul
+Contoh file
+
+Isi file 1
+Isi file 2
